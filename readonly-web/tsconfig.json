@@ -1,0 +1,9 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "types": [
+      "@adonisjs/lucid",
+      "@adonisjs/auth"
+    ]
+  }
+}
